@@ -16,19 +16,19 @@ The following features are planned for the vehicle:
 
 ### Vehicle Performance
 
-- High Speed Driving
-- Controlled Drifting
+- **High Speed Driving:**
+- **Controlled Drifting:**
 
 ### Autonomous Capabilities
 
-- Autonomous Parking
-- Object Detection
-- Distance Sensing
+- **Autonomous Parking:**
+- **Object Detection:**
+- **Distance Sensing:**
 
 ### Remote Operation
 
-- Wireless Control
-- Live Video Streaming 
+- **Wireless Control:**
+- **Live Video Streaming:** 
 
 ### Operating Modes
 
@@ -37,18 +37,25 @@ The following features are planned for the vehicle:
 
 ### Technologies
 
-- Programming:
-- Computer Vision:
-- Embedded Systems:
-- Robotics:
-- Communication:
-- Hardware:
+- **Programming:**
+- **Computer Vision:**
+- **Embedded Systems:**
+- **Robotics:**
+- **Communication:**
+- **Hardware:**
 
 ## Project Documentation
+
+Detailed engineering documentation will be maintained in the `docs/` directory as development progresses.
+
+| Document | Description |
+|----------|-------------|
+|Project Overview | Project goals, motivation, obejective, and expected outcomes |
 
 ## Development Status
 
 ### Current Phase: 
 
 ## Project Goals
+
 
